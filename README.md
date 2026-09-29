@@ -1,0 +1,2 @@
+# skills
+Cursor Skills
